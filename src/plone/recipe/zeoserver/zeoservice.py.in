@@ -70,7 +70,7 @@ import sys, os
 # these are replacements from mkzopeinstance
 PYTHON = r'%(PYTHON)s'
 INSTANCE_HOME = r'%(INSTANCE_HOME)s'
-ZODB3_HOME = r'%(zodb3_home)s'
+ZODB3_HOME = r'%(zodb_home)s'
 PYTHONPATH = r'%(PYTHONPATH)s'
 PID_FILENAME = r'%(PID_FILENAME)s'
 
